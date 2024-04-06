@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: #ecd284;
+}
+
+footer {
+    text-align: center;
+    display: block;
+    unicode-bidi: isolate;
+}
